@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="c.xslt"?>
+<DS>
+	<congty TenCT="Cong ty duoc Ha Nam">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phong to chuc</tendv>
+			<dienthoai>0192837645</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Le Thu Lan</hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Le Thu Bac </hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+		</donvi>
+		<donvi>
+			<madv>A02</madv>
+			<tendv>Phong ke toan</tendv>
+			<dienthoai>0192837645</dienthoai>
+			<nhanvien>
+				<manv>kt01</manv>
+				<hoten>Le Thu Lan</hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>kt02</manv>
+				<hoten>Le Thu Bac </hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+	<congty TenCT="Cong ty duoc Ha Noi">
+		<donvi>
+			<madv>A01</madv>
+			<tendv>Phong to chuc</tendv>
+			<dienthoai>0192837645</dienthoai>
+			<nhanvien>
+				<manv>tc01</manv>
+				<hoten>Le Thu Lan</hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>tc02</manv>
+				<hoten>Le Thu Bac </hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+		</donvi>
+		<donvi>
+			<madv>A02</madv>
+			<tendv>Phong ke toan</tendv>
+			<dienthoai>0192837645</dienthoai>
+			<nhanvien>
+				<manv>kt01</manv>
+				<hoten>Le Thu Lan</hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>23</ngaycong>
+			</nhanvien>
+			<nhanvien>
+				<manv>kt02</manv>
+				<hoten>Le Thu Bac </hoten>
+				<ngaysinh>1999-02-02</ngaysinh>
+				<gioitinh>nam</gioitinh>
+				<ngaycong>25</ngaycong>
+			</nhanvien>
+		</donvi>
+	</congty>
+
+
+</DS>

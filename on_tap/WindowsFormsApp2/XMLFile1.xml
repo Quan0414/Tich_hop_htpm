@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="b.xslt"?>
+<lop xmlns="http://tempuri.org/XMLSchema1.xsd">
+	<sinhvien>
+		<masv>111</masv>
+		<tensv>qqq</tensv>
+		<gioitinh>Nam</gioitinh>
+		<ngaysinh>2005-11-01</ngaysinh>
+		<malop>aaaa11</malop>
+	</sinhvien>
+
+	<sinhvien>
+		<masv>111</masv>
+		<tensv>a</tensv>
+		<gioitinh>Nam</gioitinh>
+		<ngaysinh>2005-11-01</ngaysinh>
+		<malop>aaaa11</malop>
+	</sinhvien>
+
+	<sinhvien>
+		<masv>111</masv>
+		<tensv>b</tensv>
+		<gioitinh>Nam</gioitinh>
+		<ngaysinh>2005-11-01</ngaysinh>
+		<malop>aaaa11</malop>
+	</sinhvien>
+
+	<sinhvien>
+		<masv>111</masv>
+		<tensv>c</tensv>
+		<gioitinh>Nam</gioitinh>
+		<ngaysinh>2005-11-01</ngaysinh>
+		<malop>aaaa11</malop>
+	</sinhvien>
+</lop>
