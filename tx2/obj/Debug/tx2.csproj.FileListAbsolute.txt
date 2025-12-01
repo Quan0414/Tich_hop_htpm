@@ -1,0 +1,10 @@
+E:\Study\Tich hop htpm\tx2\bin\Debug\tx2.exe.config
+E:\Study\Tich hop htpm\tx2\bin\Debug\tx2.exe
+E:\Study\Tich hop htpm\tx2\bin\Debug\tx2.pdb
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.csproj.AssemblyReference.cache
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.Form1.resources
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.Properties.Resources.resources
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.csproj.GenerateResource.cache
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.csproj.CoreCompileInputs.cache
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.exe
+E:\Study\Tich hop htpm\tx2\obj\Debug\tx2.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<truonghoc>
+  <lophoc>
+    <malop>lop1</malop>
+    <phonghoc>105-A9</phonghoc>
+    <sinhvien masv="s1">
+      <hoten>Trinh Thanh Quan</hoten>
+      <diachi>Thai Binh</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>lop1</malop>
+    <phonghoc>105-A9</phonghoc>
+    <sinhvien masv="s2">
+      <hoten>Trinh Thanh Quan</hoten>
+      <diachi>Thai Binh</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>lop2</malop>
+    <phonghoc>105-A9</phonghoc>
+    <sinhvien masv="s1">
+      <hoten>Trinh Thanh Quan</hoten>
+      <diachi>Thai Binh</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>lop2</malop>
+    <phonghoc>105-A9</phonghoc>
+    <sinhvien masv="s2">
+      <hoten>Trinh Thanh Quan</hoten>
+      <diachi>Thai Binh</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>a</malop>
+    <phonghoc>a</phonghoc>
+    <sinhvien masv="a">
+      <hoten>a</hoten>
+      <diachi>a</diachi>
+    </sinhvien>
+  </lophoc>
+  <lophoc>
+    <malop>a</malop>
+    <phonghoc>a</phonghoc>
+    <sinhvien masv="avv">
+      <hoten>a</hoten>
+      <diachi>a</diachi>
+    </sinhvien>
+  </lophoc>
+</truonghoc>
